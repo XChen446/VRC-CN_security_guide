@@ -27,11 +27,13 @@
 ## 不要在VRC bio中挂任何自己的社交信息 :warning: :warning: :warning:
 非常不建议前往公开房（或者进去前切换成公开模），
 
-警惕身边有相关不认识或莫名上来搭话的人，并根据名单及时拉黑相关人员。
+警惕身边有相关不认识或莫名上来搭话的人，并根据[劣迹玩家榜单](./malicious_users.md)及时拉黑相关人员
 
 警惕qq群有相关言论或为其洗白的的人，该团伙在国内伙同其招揽进社区的玩家，
 
-高强度巡逻，举报揭露其行为的相关帖子和视频。
+高强度巡逻，举报揭露其行为的相关帖子和视频
+
+**欢迎对本仓库进行[Issue](https://github.com/XChen446/VRC-CN_security_guide/issues/new/choose)和[PR](https://github.com/XChen446/VRC-CN_security_guide/compare)！**
 
 **感谢你们对vrc社区做出的贡献！**
 
