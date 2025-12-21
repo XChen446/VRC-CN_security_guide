@@ -138,6 +138,15 @@
   
   UserId：[usr_84e63a14-eca2-4e6e-95c0-1291a8e2e80f](https://vrchat.com/home/user/usr_84e63a14-eca2-4e6e-95c0-1291a8e2e80f)
 
+- VRC名字：Coconut༣
+  > qq发自己大号在dc被踢的截图，询问为什么被查
+  > 
+  > 小号QQ群自爆，后经查询在dc群极度活跃
+  > 
+  > 对公民信息被公布到外网一事完全不认为有任何问题
+  
+  UserId：[usr_e52fda58-415e-46d0-a1a9-39697d396a85](https://vrchat.com/home/user/usr_e52fda58-415e-46d0-a1a9-39697d396a85)
+
 ---
 ## 中文咖啡厅开盒/秦波夜事件开盒/制作开盒地图/制作政治模型一系 *老面孔新提*
 
