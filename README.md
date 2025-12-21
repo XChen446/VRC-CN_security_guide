@@ -33,7 +33,16 @@
 
 高强度巡逻，举报揭露其行为的相关帖子和视频
 
-**欢迎对本仓库进行[Issue](https://github.com/XChen446/VRC-CN_security_guide/issues/new/choose)和[PR](https://github.com/XChen446/VRC-CN_security_guide/compare)！**
+### 关于大规模封号问题
+
+封号本文档从未提及过，但历史上vrchat确实现过大规模无差别无理由封号，有服务器判定规则改变、小团体疯狂举报等。
+
+本次相关案例疑似为：
+- vrchat为vket的到来大规模严厉打击nsfw而被连带；
+- 新更新的用户条款开放了一个管理员api，使得vrchat官方可以不经过任何玩家个人许可直接访问他们认为的“侵害行为”事件发生的位置并对相关玩家进行直接处理，该端口疑似遭到泄露。（2025.12.20）
+
+
+**欢迎对本仓库进行[Issue](https://github.com/XChen446/VRC-CN_security_guide/issues/new/choose)和[PR](https://github.com/XChen446/VRC-CN_security_guide/compare)！一起共同维护大多数玩家群体的利益**
 
 **感谢你们对vrc社区做出的贡献！**
 
